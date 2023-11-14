@@ -1,2 +1,2 @@
 # RestoManagementSystem
-Yayy >%3
+Yay >%3
